@@ -1,0 +1,12 @@
+*.pyc
+project.lock.json
+bin/
+obj/
+.vs/
+node_modules/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform/
